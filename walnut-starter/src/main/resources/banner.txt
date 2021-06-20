@@ -1,0 +1,6 @@
+
+  ╦ ╦ ┌─┐┬  ┌┐┌┬ ┬┌┬┐
+  ║║║ ├─┤│  ││││ │ │
+  ╚╩╝ ┴ ┴┴─┘┘└┘└─┘ ┴
+${AnsiColor.BLUE}  Small is beautiful.             :: Spring Boot :: ${spring-boot.formatted-version}
+${AnsiColor.DEFAULT}
