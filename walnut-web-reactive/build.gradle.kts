@@ -34,6 +34,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-mail")
     implementation("org.springframework.boot:spring-boot-starter-webflux")
     implementation("org.springframework.cloud:spring-cloud-starter-openfeign")
+    implementation("com.ctrip.framework.apollo:apollo-client:2.4.0") // https://mvnrepository.com/artifact/com.ctrip.framework.apollo/apollo-client
     compileOnly("org.projectlombok:lombok")
     runtimeOnly("com.h2database:h2")
     runtimeOnly("io.r2dbc:r2dbc-h2")

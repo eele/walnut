@@ -8,6 +8,7 @@ build/
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
+.idea/ApifoxUploaderProjectSetting.xml
 .idea/compiler.xml
 .idea/libraries/
 *.iws
